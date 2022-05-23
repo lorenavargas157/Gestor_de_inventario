@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gestor de inventario</string>
+
+    <string name="app_nae">seleccionar</string>
+    <string-array name="languages">
+        <item>Conteo 1</item>
+        <item>Conteo 2</item>
+        <item>Conteo 3</item>
+        <item>Conteo 4</item>
+    </string-array>
+</resources>
